@@ -1,1 +1,1 @@
-# mm
+worker: node bot.js
